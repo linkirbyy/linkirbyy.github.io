@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linkirbyy.github.io</id>
     <title>Eigenheim</title>
-    <updated>2020-08-23T11:04:51.593Z</updated>
+    <updated>2020-08-23T11:07:36.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linkirbyy.github.io"/>
     <link rel="self" href="https://linkirbyy.github.io/atom.xml"/>
@@ -22,8 +22,7 @@
 <p>与朋友J讨论我们的共性，以及与他人的不同。提到了温润的爱——也许是基于信仰，也许是基于对人生意义的诠释，也许是基于对社会现状的诉求</p>
 <p>观影《一个名叫OVE的男人》。原则和爱，是不同的，原则是自己遵守也要求别人遵守，而爱是不求回报主动去发现那些需要——原则并不能产生连接，而爱却可以。我的问题正在于此，原则被无限强化，自身判断自己无法给出爱，或者害怕给出爱而被伤害。</p>
 <p>回想小时候关于游戏的构想，是想要温暖众人心的作品，想要构建人与人理解的桥梁。后来却变成想要传达自我了，但自我本身是混沌和不明确的，因此难以具象和传达。入行两年，越来越觉得自己的目标缺乏实体，对于生命的绝望越来越占据主动，以致于不断坠入深渊，看不到指路的明星。越是如此，越是需要拼命去探寻——也许一次两次传达并不成功，但余梦尚有二十载。</p>
-<p>现在想来，同一些朋友和同事的理念不同，游戏同样也是我选择传达理念的媒介。因此对于关卡体验、文案的关注一直大于机制、数值、表现。</p>
-<hr>
+<h2 id="现在想来同一些朋友和同事的理念不同游戏同样也是我选择传达理念的媒介-因此对于关卡体验-文案的关注一直大于机制-数值-表现">现在想来，同一些朋友和同事的理念不同，游戏同样也是我选择传达理念的媒介。因此对于关卡体验、文案的关注一直大于机制、数值、表现。</h2>
 <h2 id="合并">合并</h2>
 <p>手头的几个业余时间规划去做的企划，却因为自身精力和时间的规划不切实际，无法完成甚至其一。不妨将其合并吧，混沌的存在如是想。</p>
 <p>ProjectK- 幻想风故事音乐专辑<br>
@@ -32,38 +31,6 @@ ProjectM - 少女的幻想旅行、灵魂的探索，回合制SLG<br>
 ProjectL - 幻想世界下星空之塔的旅行模组</p>
 <p>总体来说，是幻想世界下少女旅行的故事，主题是人与人的连接、人与世界的连接。还需要进一步具象化。<br>
 推动可以分两条线：故事+音乐+人设；玩法与机制</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://linkirbyy.github.io/post/hello-gridea/</id>
-        <link href="https://linkirbyy.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
