@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linkirbyy.github.io</id>
     <title>Eigenheim</title>
-    <updated>2021-10-06T16:47:15.986Z</updated>
+    <updated>2021-10-07T04:43:39.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linkirbyy.github.io"/>
     <link rel="self" href="https://linkirbyy.github.io/atom.xml"/>
@@ -31,42 +31,22 @@
 <h2 id="敬世界">敬世界</h2>
 <p>《秋月》</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8286482"><label class="task-list-item-label" for="task-item-8286482"> 1oz = 30ml味美思</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1423360"><label class="task-list-item-label" for="task-item-1423360"> 1oz = 30ml威士忌</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-527616"><label class="task-list-item-label" for="task-item-527616"> 1/3oz = 10ml君度</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1630981"><label class="task-list-item-label" for="task-item-1630981"> 1oz = 30ml味美思</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4949195"><label class="task-list-item-label" for="task-item-4949195"> 1oz = 30ml威士忌</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6718025"><label class="task-list-item-label" for="task-item-6718025"> 1/3oz = 10ml君度</label></li>
 </ul>
 <table>
 <thead>
 <tr>
-<th><img src="https://linkirbyy.github.io/post-images/1633528660450.jpg" alt="" width="300" loading="lazy"></th>
+<th><img src="https://linkirbyy.github.io/post-images/1633539120802.jpg" alt="" width="300" loading="lazy"></th>
 </tr>
 </thead>
-<tbody></tbody>
+<tbody>
+<tr>
+<td><img src="https://linkirbyy.github.io/post-images/1633539368145.jpg" alt="" width="300" loading="lazy"></td>
+</tr>
+</tbody>
 </table>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅途 其一]]></title>
-        <id>https://linkirbyy.github.io/post/lu-tu-qi-yi/</id>
-        <link href="https://linkirbyy.github.io/post/lu-tu-qi-yi/">
-        </link>
-        <updated>2020-08-23T10:49:03.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="初心">初心</h2>
-<p>扪心自问，做游戏的初衷是什么？是什么能保持我不会迷茫？</p>
-<p>与同事关于做游戏目标的讨论。我想留下生存的明证，但这真的是我所想么？</p>
-<p>与朋友J讨论我们的共性，以及与他人的不同。提到了温润的爱——也许是基于信仰，也许是基于对人生意义的诠释，也许是基于对社会现状的诉求</p>
-<p>观影《一个名叫OVE的男人》。原则和爱，是不同的，原则是自己遵守也要求别人遵守，而爱是不求回报主动去发现那些需要——原则并不能产生连接，而爱却可以。我的问题正在于此，原则被无限强化，自身判断自己无法给出爱，或者害怕给出爱而被伤害。</p>
-<p>回想小时候关于游戏的构想，是想要温暖众人心的作品，想要构建人与人理解的桥梁。后来却变成想要传达自我了，但自我本身是混沌和不明确的，因此难以具象和传达。入行两年，越来越觉得自己的目标缺乏实体，对于生命的绝望越来越占据主动，以致于不断坠入深渊，看不到指路的明星。越是如此，越是需要拼命去探寻——也许一次两次传达并不成功，但余梦尚有二十载。</p>
-<p>现在想来，同一些朋友和同事的理念不同，游戏同样也是我选择传达理念的媒介。因此对于关卡体验、文案的关注一直大于机制、数值、表现。</p>
-<hr>
-<h2 id="合并">合并</h2>
-<p>手头的几个业余时间规划去做的企划，却因为自身精力和时间的规划不切实际，无法完成甚至其一。不妨将其合并吧，混沌的存在如是想。</p>
-<p>ProjectK- 幻想风故事音乐专辑<br>
-ProjectJ - 关于游戏和音乐其后世界的电台，传达温润的爱与连接<br>
-ProjectM - 少女的幻想旅行、灵魂的探索，回合制SLG<br>
-ProjectL - 幻想世界下星空之塔的旅行模组</p>
-<p>总体来说，是幻想世界下少女旅行的故事，主题是人与人的连接、人与世界的连接。还需要进一步具象化。<br>
-推动可以分两条线：故事+音乐+人设；玩法与机制</p>
 ]]></content>
     </entry>
 </feed>
